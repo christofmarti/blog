@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "christofmarti",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"christofmarti","repositoryName":"blog","branch":"gh-pages","cname":"blog.marti.io"},"site":{"url":"http://blog.marti.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//christofmarti.github.io/blog/themes/Casper"}}
