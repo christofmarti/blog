@@ -8,7 +8,7 @@ How to add images?
 
 image::icclab-splab-logo.png[]
 
-And som other text.
+And some other text.
 
 See you then.
 
