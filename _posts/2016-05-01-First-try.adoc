@@ -1,0 +1,16 @@
+# First try
+:published_at: 2016-05-01
+:hp-tags: test, blog
+
+This is a first try of a blogpost using hubpress.
+
+How to add images?
+
+image::icclab-splab-logo.png[]
+
+And som other text.
+
+See you then.
+
+BR
+Christof
